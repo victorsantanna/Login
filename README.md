@@ -1,3 +1,4 @@
-# Login
-### Projeto de replica de uma tela de Login com Html, Css e JS - Login <br>
+# Tela de Login
+### Esse projeto foi desenvolvido com as seguintes tecnologias:
+#### Html, Css e JavaScript <br>
 
